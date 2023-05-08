@@ -1,0 +1,15 @@
+C:\Users\dunca\school shit\periode 4\C#m4\Csharpm4\ConsoleMon\ConsoleMon\bin\Debug\net6.0\ConsoleMon.exe
+C:\Users\dunca\school shit\periode 4\C#m4\Csharpm4\ConsoleMon\ConsoleMon\bin\Debug\net6.0\ConsoleMon.deps.json
+C:\Users\dunca\school shit\periode 4\C#m4\Csharpm4\ConsoleMon\ConsoleMon\bin\Debug\net6.0\ConsoleMon.runtimeconfig.json
+C:\Users\dunca\school shit\periode 4\C#m4\Csharpm4\ConsoleMon\ConsoleMon\bin\Debug\net6.0\ConsoleMon.dll
+C:\Users\dunca\school shit\periode 4\C#m4\Csharpm4\ConsoleMon\ConsoleMon\bin\Debug\net6.0\ConsoleMon.pdb
+C:\Users\dunca\school shit\periode 4\C#m4\Csharpm4\ConsoleMon\ConsoleMon\obj\Debug\net6.0\ConsoleMon.csproj.AssemblyReference.cache
+C:\Users\dunca\school shit\periode 4\C#m4\Csharpm4\ConsoleMon\ConsoleMon\obj\Debug\net6.0\ConsoleMon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dunca\school shit\periode 4\C#m4\Csharpm4\ConsoleMon\ConsoleMon\obj\Debug\net6.0\ConsoleMon.AssemblyInfoInputs.cache
+C:\Users\dunca\school shit\periode 4\C#m4\Csharpm4\ConsoleMon\ConsoleMon\obj\Debug\net6.0\ConsoleMon.AssemblyInfo.cs
+C:\Users\dunca\school shit\periode 4\C#m4\Csharpm4\ConsoleMon\ConsoleMon\obj\Debug\net6.0\ConsoleMon.csproj.CoreCompileInputs.cache
+C:\Users\dunca\school shit\periode 4\C#m4\Csharpm4\ConsoleMon\ConsoleMon\obj\Debug\net6.0\ConsoleMon.dll
+C:\Users\dunca\school shit\periode 4\C#m4\Csharpm4\ConsoleMon\ConsoleMon\obj\Debug\net6.0\refint\ConsoleMon.dll
+C:\Users\dunca\school shit\periode 4\C#m4\Csharpm4\ConsoleMon\ConsoleMon\obj\Debug\net6.0\ConsoleMon.pdb
+C:\Users\dunca\school shit\periode 4\C#m4\Csharpm4\ConsoleMon\ConsoleMon\obj\Debug\net6.0\ConsoleMon.genruntimeconfig.cache
+C:\Users\dunca\school shit\periode 4\C#m4\Csharpm4\ConsoleMon\ConsoleMon\obj\Debug\net6.0\ref\ConsoleMon.dll
